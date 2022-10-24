@@ -1,4 +1,4 @@
 # UG-Net
-UG-Net: A Simple Unsupervised-Guided Network for Biomedical Image Discrimination and Diagnosis
+UG-Net: Unsupervised-Guided Network for Biomedical Image Segmentation and Classification
 
 This code is implemented by https://github.com/zxg3017/CUSS-Net/.
