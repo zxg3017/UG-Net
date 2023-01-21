@@ -1,3 +1,3 @@
 # UG-Net
 
-This code is implemented by https://github.com/zxg3017/CUSS-Net/.
+This code is implemented for UG-Net: Unsupervised-Guided Network for Biomedical Image Segmentation and Classification.
